@@ -15,8 +15,8 @@ Edit Readme
 ---
 
 - **ID :** 2
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** CHANCHAI
+- **Gender :** M
 
 ---
 
