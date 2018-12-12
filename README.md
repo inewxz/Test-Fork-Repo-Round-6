@@ -81,8 +81,8 @@ Edit Readme
 ---
 
 - **ID :** 13
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** adison
+- **Gender :** M
 
 ---
 
