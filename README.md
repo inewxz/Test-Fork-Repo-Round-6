@@ -69,8 +69,8 @@ Edit Readme
 ---
 
 - **ID :** 11
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** ORATHAI BB
+- **Gender :** F
 
 ---
 
@@ -127,3 +127,4 @@ Edit Readme
 - **Gender :** <M or F>
 
 ---
+**ID orathai
