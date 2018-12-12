@@ -63,8 +63,8 @@
 ---
 
 - **ID :** 10
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** passakorn di
+- **Gender :** M
 
 ---
 
