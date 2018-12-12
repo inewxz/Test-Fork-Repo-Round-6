@@ -51,8 +51,8 @@
 ---
 
 - **ID :** 8
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** arm
+- **Gender :** M
 
 ---
 
