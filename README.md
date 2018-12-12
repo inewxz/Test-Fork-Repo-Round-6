@@ -22,7 +22,7 @@
 
 - **ID :** 3
 - **Name :** dome
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
