@@ -21,8 +21,8 @@ Edit Readme
 ---
 
 - **ID :** 3
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** dome
+- **Gender :** M
 
 ---
 
