@@ -39,8 +39,8 @@
 ---
 
 - **ID :** 6
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** new
+- **Gender :** M
 
 ---
 
